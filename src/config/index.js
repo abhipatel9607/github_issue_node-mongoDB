@@ -8,4 +8,5 @@ module.exports = {
   GITHUB_USERNAME: process.env.GITHUB_USERNAME,
   GITHUB_REPO: process.env.GITHUB_REPO,
   GITHUB_TOKEN: process.env.GITHUB_TOKEN,
+  JWT_SECRET: process.env.JWT_SECRET,
 };
