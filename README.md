@@ -1,6 +1,6 @@
 # GITHUB ISSUE - NODE & MONGO DB
 
-This is a simple Node.js project for syncing data from GitHub issues onto a MongoDB database using the GitHub API, Express.js, and Mongoose.
+This is a Node.js project for syncing data from GitHub issues onto a MongoDB database using the GitHub API, Express.js, and Mongoose.
 
 ## Prerequisites
 
